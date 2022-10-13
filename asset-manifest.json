@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/yiranhan-portfolio/static/css/main.9bc21313.css",
+    "main.js": "/yiranhan-portfolio/static/js/main.28edd404.js",
+    "static/media/realestate.jpg": "/yiranhan-portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/workImg.jpeg": "/yiranhan-portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/yiranhan-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/yiranhan-portfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/sql.png": "/yiranhan-portfolio/static/media/sql.3da595f0bc06e96869d0.png",
+    "static/media/java.png": "/yiranhan-portfolio/static/media/java.1b6ad420759290e97a38.png",
+    "static/media/github.png": "/yiranhan-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/python.png": "/yiranhan-portfolio/static/media/python.8a776dcb2fa4d5da5dd0.png",
+    "static/media/spring.png": "/yiranhan-portfolio/static/media/spring.a86ebb0eebedcd9a11f8.png",
+    "static/media/logo.png": "/yiranhan-portfolio/static/media/logo.9213969b92b210c1237e.png",
+    "static/media/javascript.png": "/yiranhan-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/yiranhan-portfolio/index.html",
+    "main.9bc21313.css.map": "/yiranhan-portfolio/static/css/main.9bc21313.css.map",
+    "main.28edd404.js.map": "/yiranhan-portfolio/static/js/main.28edd404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bc21313.css",
+    "static/js/main.28edd404.js"
+  ]
+}
