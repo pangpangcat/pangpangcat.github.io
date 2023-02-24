@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/yiranhan-portfolio/static/css/main.9bc21313.css",
-    "main.js": "/yiranhan-portfolio/static/js/main.28edd404.js",
-    "static/media/realestate.jpg": "/yiranhan-portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
-    "static/media/workImg.jpeg": "/yiranhan-portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
-    "static/media/react.png": "/yiranhan-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/aws.png": "/yiranhan-portfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
-    "static/media/sql.png": "/yiranhan-portfolio/static/media/sql.3da595f0bc06e96869d0.png",
-    "static/media/java.png": "/yiranhan-portfolio/static/media/java.1b6ad420759290e97a38.png",
-    "static/media/github.png": "/yiranhan-portfolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/python.png": "/yiranhan-portfolio/static/media/python.8a776dcb2fa4d5da5dd0.png",
-    "static/media/spring.png": "/yiranhan-portfolio/static/media/spring.a86ebb0eebedcd9a11f8.png",
-    "static/media/logo.png": "/yiranhan-portfolio/static/media/logo.9213969b92b210c1237e.png",
-    "static/media/javascript.png": "/yiranhan-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/yiranhan-portfolio/index.html",
-    "main.9bc21313.css.map": "/yiranhan-portfolio/static/css/main.9bc21313.css.map",
-    "main.28edd404.js.map": "/yiranhan-portfolio/static/js/main.28edd404.js.map"
+    "main.css": "/portfolio-yiranhan/static/css/main.9bc21313.css",
+    "main.js": "/portfolio-yiranhan/static/js/main.1cd99f85.js",
+    "static/media/nanofarm.png": "/portfolio-yiranhan/static/media/nanofarm.3fcf61fce464bfc38b62.png",
+    "static/media/discoverPlanet.png": "/portfolio-yiranhan/static/media/discoverPlanet.0f9010b20a1680cc9ddd.png",
+    "static/media/dynamicMenu.png": "/portfolio-yiranhan/static/media/dynamicMenu.af8f2c3cd86de3b4ea9e.png",
+    "static/media/realestate.jpg": "/portfolio-yiranhan/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/notifyMe.jpg": "/portfolio-yiranhan/static/media/notifyMe.627620dfe95c20736a8b.jpg",
+    "static/media/studentGen.png": "/portfolio-yiranhan/static/media/studentGen.c174021d9d93b1890c5d.png",
+    "static/media/workImg.jpeg": "/portfolio-yiranhan/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/portfolio-yiranhan/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/portfolio-yiranhan/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/sql.png": "/portfolio-yiranhan/static/media/sql.3da595f0bc06e96869d0.png",
+    "static/media/java.png": "/portfolio-yiranhan/static/media/java.1b6ad420759290e97a38.png",
+    "static/media/github.png": "/portfolio-yiranhan/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/python.png": "/portfolio-yiranhan/static/media/python.8a776dcb2fa4d5da5dd0.png",
+    "static/media/spring.png": "/portfolio-yiranhan/static/media/spring.a86ebb0eebedcd9a11f8.png",
+    "static/media/logo.png": "/portfolio-yiranhan/static/media/logo.9213969b92b210c1237e.png",
+    "static/media/javascript.png": "/portfolio-yiranhan/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio-yiranhan/index.html",
+    "main.9bc21313.css.map": "/portfolio-yiranhan/static/css/main.9bc21313.css.map",
+    "main.1cd99f85.js.map": "/portfolio-yiranhan/static/js/main.1cd99f85.js.map"
   },
   "entrypoints": [
     "static/css/main.9bc21313.css",
-    "static/js/main.28edd404.js"
+    "static/js/main.1cd99f85.js"
   ]
 }
